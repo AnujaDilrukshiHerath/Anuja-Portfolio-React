@@ -57,7 +57,12 @@ export default function Home() {
           <h2 className="text-5xl text-teal-600 py-5">Anuja Herath</h2>
           <h3 className="text-2xl py-5">FullStack Developer</h3>
           <p  className="text-md py-5 text-gray-500 font-medium leading-8">
-              Hello, I'm Anuja. I'm a full-stack developer currently pursuing a Master's degree in Data Science and Analytics. With over two years of experience, I specialize in backend development and data science, boasting proven expertise in Java, Python, Django, React.js, and front-end technologies. I enjoy building sites and apps and am currently learning the MERN stack. My focus areas are React (Next.js) and Data Science.
+              Hello, I'm Anuja. I'm a full-stack developer currently pursuing a Master's 
+              degree in Data Science and Analytics. With over two years of experience, 
+              I specialize in backend development and data science, boasting proven expertise in 
+              Java, Python, Django, React.js, and front-end technologies. 
+              I enjoy building sites and apps and am currently learning the MERN stack. 
+              My focus areas are React, Next.js and Data Science.
 
           </p>
         </div>
